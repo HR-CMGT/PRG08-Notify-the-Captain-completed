@@ -15,4 +15,4 @@ Toevoegen van het Observer Pattern om de kapitein wakker te maken en een bericht
 - Teken het klassendiagram en pas het *Observer Pattern* toe.
 - Maak de code af volgens boven beschreven regels. 
 
-![Class diagram](./docs/images/observer.png)
+![Class diagram](./docs/images/Observer.png)
